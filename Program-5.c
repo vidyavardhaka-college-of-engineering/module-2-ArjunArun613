@@ -1,4 +1,3 @@
-.
 //INPUT - 4 1 2 3 4//OUTPUT - Sum of elements=10
 #include <stdio.h>
 int main()
