@@ -21,7 +21,7 @@ int main(){
  }
  printf("The number of times the key element is repeated is %d",c);
  
- return(0);
+ return 0;
 }
 
 
